@@ -11,7 +11,7 @@ I'm a data scientist with 4+ of experience building ML pipelines for large-scale
 **Visualization:** Power BI, Shiny, Plotly, Matplotlib
 
 ### Featured Projects
-- [Credit Card Fraud Detection](https://github.com/Mikekoropsak/Credit-Card-Fraud-Detection) - ML classifier using XGBoost with imbalanced data handling and feature engineering /m
+- [Credit Card Fraud Detection](https://github.com/Mikekoropsak/Credit-Card-Fraud-Detection) - ML classifier using XGBoost with imbalanced data handling and feature engineering /n
 - [Yelp Restaurant Review Predictor](https://github.com/Mikekoropsak/Yelp-Restaurant-Review-Predictor-) - Linear regression pipeline for rating prediction Yelp resturant ratings
 - [AWS Data Pipeline Functions](https://github.com/Mikekoropsak/AWS-Functions) - Reusable AWS functions for data migration
 
