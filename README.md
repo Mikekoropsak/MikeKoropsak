@@ -6,9 +6,9 @@ I'm a data scientist with 4+ of experience building ML pipelines for large-scale
 
 ### Technical Stack
 **Languages:** Python, R, SQL  
-**ML/Stats:** scikit-learn, survival analysis, causal inference, predictive analyses, random forests, clustering, classifications, model validation
-**Cloud:** AWS (SageMaker, EC2, Athena, S3), PostgreSQL 
-**Visualization:** Power BI, Shiny, Plotly, Matplotlib
+**ML/Stats:** scikit-learn, survival analysis, causal inference, predictive analyses, random forests, clustering, classifications, model validation  
+**Cloud:** AWS (SageMaker, EC2, Athena, S3), PostgreSQL   
+**Visualization:** Power BI, Shiny, Plotly, Matplotlib  
 
 ### Featured Projects
 - [Credit Card Fraud Detection](https://github.com/Mikekoropsak/Credit-Card-Fraud-Detection) - ML classifier using XGBoost with imbalanced data handling and feature engineering 
